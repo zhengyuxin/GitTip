@@ -5,12 +5,19 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
 # Mac OS X
 .DS_Store
 
 # Distribution / packaging
 .Python
 env/
+=======
+# Distribution / packaging
+.Python
+env/
+bin/
+>>>>>>> 8ae9eab54e89ea05205af6d69e31e81b0bca9e25
 build/
 develop-eggs/
 dist/
@@ -24,12 +31,15 @@ var/
 .installed.cfg
 *.egg
 
+<<<<<<< HEAD
 # PyInstaller
 #  Usually these files are written by a python script from a template 
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
+=======
+>>>>>>> 8ae9eab54e89ea05205af6d69e31e81b0bca9e25
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -44,13 +54,31 @@ coverage.xml
 
 # Translations
 *.mo
+<<<<<<< HEAD
 *.pot
 
 # Django stuff:
 *.log
+=======
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+>>>>>>> 8ae9eab54e89ea05205af6d69e31e81b0bca9e25
 
 # Sphinx documentation
 docs/_build/
 
+<<<<<<< HEAD
 # PyBuilder
 target/
+=======
+>>>>>>> 8ae9eab54e89ea05205af6d69e31e81b0bca9e25
